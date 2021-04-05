@@ -16,3 +16,19 @@ function removeTransition(e) {
 const keys = document.querySelectorAll(".key");
 keys.forEach((key) => key.addEventListener("transitionend", removeTransition));
 window.addEventListener("keydown", key);
+
+const mouse = document.querySelectorAll(".key");
+
+function clickTrigger() {
+  let key = this.dataset.key;
+  const audio = document.querySelector(`audio[data-key="${key}"]`);
+  this.classList.add("playing");
+  audio.currentTime = 0;
+  audio.play();
+}
+
+function unclickTrigger() {
+  this.classList.remove("playing");
+}
+mouse.forEach((item) => item.addEventListener("mousedown", clickTrigger));
+mouse.forEach((item) => item.addEventListener("mouseup", unclickTrigger));
