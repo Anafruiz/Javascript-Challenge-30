@@ -8,6 +8,10 @@
 
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%204"> Challege 4: Array Cardio day 1 <img src="https://img.icons8.com/dotty/80/000000/google-code.png" width="30" height="30" /></a>  
 
-<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%205"> Challege 5: Flex Panels Image Gallery <img src="https://img.icons8.com/ios/50/000000/gallery.png" width="30" height="30" /></a>
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%205"> Challege 5: Flex Panels Image Gallery <img src="https://img.icons8.com/ios/50/000000/gallery.png" width="30" height="30" /></a>  
+
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%206"> Challege 6: Filter City or State <img src="https://img.icons8.com/wired/64/000000/city.png" width="30" height="30" /></a>  
+
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%207"> Challege 7 : Array Cardio day 2 <<img src="https://img.icons8.com/dotty/80/000000/google-code.png" width="30" height="30" /></a>  
 
 
