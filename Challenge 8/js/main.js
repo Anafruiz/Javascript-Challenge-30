@@ -51,10 +51,9 @@ canvas.addEventListener("mousemove", draw);
 canvas.addEventListener("mouseup", () => (isDrawing = false));
 canvas.addEventListener("mouseout", () => (isDrawing = false));
 
+//Clear canvas
 const button = document.querySelector(".button");
-
 button.addEventListener("click", handleReset);
-
 function handleReset() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
 }
