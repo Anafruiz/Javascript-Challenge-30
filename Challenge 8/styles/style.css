@@ -7,7 +7,7 @@
   background: url("../images/lienzo.jpg");
   background-size: cover;
   height: 100vh;
-  cursor: url("../images/lapiz.cur"), auto;
+  cursor: url("../images/pincel.png"), auto;
 }
 
 .button {
