@@ -16,7 +16,8 @@
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%208"> Challege 8 : Fun with HTML5 Canvas <img src="https://img.icons8.com/dotty/80/000000/paint.png" width="30" height="30" /></a>  
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%209"> Challege 9 : Dev Tool Tricks <img src="https://img.icons8.com/wired/64/000000/console.png" width="30" height="30" /></a>    
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2010"> Challege 10 :To do List <img src="https://img.icons8.com/wired/50/000000/add-list.png" width="30" height="30" /></a>  
-<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2011"> Challege 11 :Custom Video Player <img src="https://img.icons8.com/wired/64/000000/music-video.png" width="30" height="30" /></a> 
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2011"> Challege 11 :Custom Video Player <img src="https://img.icons8.com/wired/64/000000/music-video.png" width="30" height="30" /></a>   
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2012"> Challege 12 :Key sequence detection <img src="https://img.icons8.com/wired/64/000000/keyboard.png" width="30" height="30" /></a> 
 
 
 
