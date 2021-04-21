@@ -20,6 +20,6 @@
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2012"> Challege 12 :Key sequence detection <img src="https://img.icons8.com/wired/64/000000/keyboard.png" width="30" height="30" /></a>   
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2013"> Challege 13: Slide in on Scroll <img src="https://img.icons8.com/pastel-glyph/64/000000/verified-scroll--v1.png" width="30" height="30" /></a>   
 
-<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2014"> Challege 14: Object and Arrays- Reference vs Copy <img src="https://img.icons8.com/fluent-systems-regular/48/000000/head-to-head.png" width="30" height="30" /></a>   
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2014"> Challege 14: Object and Arrays- Reference vs Copy <img src="https://img.icons8.com/fluent-systems-regular/48/000000/head-to-head.png" width="30" height="30" /></a>     
 
-
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2015"> Challege 15: Local Storage <img src="https://img.icons8.com/material-two-tone/24/000000/storage.png" width="30" height="30" /></a>    
