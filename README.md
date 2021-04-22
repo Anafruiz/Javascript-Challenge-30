@@ -22,4 +22,6 @@
 
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2014"> Challege 14: Object and Arrays- Reference vs Copy <img src="https://img.icons8.com/fluent-systems-regular/48/000000/head-to-head.png" width="30" height="30" /></a>     
 
-<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2015"> Challege 15: Local Storage <img src="https://img.icons8.com/material-two-tone/24/000000/storage.png" width="30" height="30" /></a>    
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2015"> Challege 15: Local Storage <img src="https://img.icons8.com/material-two-tone/24/000000/storage.png" width="30" height="30" /></a>      
+
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2016"> Challege 16: Css text shadow mouse move effect <img src="https://img.icons8.com/wired/64/000000/mouse.png" width="30" height="30" /></a>    
