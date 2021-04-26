@@ -26,5 +26,6 @@
 
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2016"> Challege 16: Css text shadow mouse move effect <img src="https://img.icons8.com/wired/64/000000/mouse.png" width="30" height="30" /></a>      
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2017"> Challege 17:Sort names without articles <img src="https://img.icons8.com/wired/64/000000/sorting-arrows.png" width="30" height="30" /></a>      
+<a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2018"> Challege 18:Tally string Times with Reduce <img src="https://img.icons8.com/ios/50/000000/last-60-sec.png" width="30" height="30" /></a>   
 
   
