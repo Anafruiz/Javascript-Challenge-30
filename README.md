@@ -29,5 +29,7 @@
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2018"> Challege 18:Tally string Times with Reduce <img src="https://img.icons8.com/ios/50/000000/last-60-sec.png" width="30" height="30" /></a>     
 <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2019"> Challege 19:Unreal Webcam Fun <img src="https://img.icons8.com/wired/64/000000/webcam.png" width="30" height="30" /></a> 
   
-  <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2020"> Challege 20:Speech Detection <img src="https://img.icons8.com/wired/64/000000/microphone.png" width="30" height="30" /></a>
+  <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2020"> Challege 20:Speech Detection <img src="https://img.icons8.com/wired/64/000000/microphone.png" width="30" height="30" /></a>  
+    
+  <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2022"> Challege 22:Follow Along Links <img src="https://img.icons8.com/windows/32/000000/link.png" width="30" height="30" /></a>
   
