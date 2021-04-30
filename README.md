@@ -31,5 +31,6 @@
   
   <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2020"> Challege 20:Speech Detection <img src="https://img.icons8.com/wired/64/000000/microphone.png" width="30" height="30" /></a>  
     
-  <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2022"> Challege 22:Follow Along Links <img src="https://img.icons8.com/windows/32/000000/link.png" width="30" height="30" /></a>
+  <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2022"> Challege 22:Follow Along Links <img src="https://img.icons8.com/windows/32/000000/link.png" width="30" height="30" /></a>  
+  
   <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2023"> Challege 23:Funny Speech voicer <img src="https://img.icons8.com/ios/50/000000/crazy.png" width="30" height="30" /></a>
