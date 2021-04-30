@@ -17,10 +17,11 @@ body {
   display: flex;
   min-height: 100vh;
   align-items: center;
-  background-color: #6cc8d4;
+  background-color: #e5e5f7;
   opacity: 0.8;
-  background-image: radial-gradient(#0c5658 1px, #6fbdb2 1px);
-  background-size: 20px 20px;
+  background-image:  radial-gradient(#031214 1px, transparent 1px), radial-gradient(#e211e9 1px, #a5e9e5 1px);
+  background-size: 40px 40px;
+  background-position: 0 0,20px 20px;
 }
   .voiceinator {
     padding: 2rem;
