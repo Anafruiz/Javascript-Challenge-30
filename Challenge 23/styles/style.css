@@ -36,6 +36,7 @@ body {
 }
 
 .voiceinator {
+  
   padding: 2rem;
   width: 50rem;
   margin: 0 auto;
@@ -100,4 +101,8 @@ input[type="select"] {
 
 .voiceinator button:nth-of-type(1) {
   margin-right: 2%;
+}
+.range{
+  font-size: 16px;
+  color:#0c7061
 }
