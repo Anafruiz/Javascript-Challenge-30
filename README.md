@@ -37,7 +37,8 @@
   <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2024"> Challege 24:Sticky Nav <img src="https://img.icons8.com/carbon-copy/100/000000/menu.png" width="30" height="30" /></a>  
     <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2025"> Challege 25:Event capture,propagation,bubbling and once <img src="https://img.icons8.com/windows/32/000000/mix-words.png" width="30" height="30" /></a>  
         <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2026"> Challege 26:Follow Along Nav <img src="https://img.icons8.com/wired/64/000000/speech-bubble.png" width="30" height="30" /></a>  
-                <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2027"> Challege 27:Click and Drag <img src="https://img.icons8.com/ios/50/000000/hand-drag.png" width="30" height="30" /></a>
+                <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2027"> Challege 27:Click and Drag <img src="https://img.icons8.com/ios/50/000000/hand-drag.png" width="30" height="30" /></a>  
+                                <a href="https://github.com/Anafruiz/Javascript-Challenge-30/tree/master/Challenge%2028"> Challege 28:ideo Speed Scrubber<img src="https://img.icons8.com/wired/64/000000/speed.png" width="30" height="30" /></a>
 
 
 
